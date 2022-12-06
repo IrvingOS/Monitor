@@ -11,5 +11,6 @@
 
     <modules>
         <module>monitor-server</module>
+        <module>monitor-client</module>
     </modules>
 </project>
